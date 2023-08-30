@@ -1,0 +1,13 @@
+.logo{
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.logo:hover{
+    color: black;
+}
+
+.lister{
+    cursor: pointer;
+}
